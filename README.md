@@ -1,9 +1,9 @@
-# Budget Tracking App
+# Finance Management App
 
 ## Getting Started
 
 
-flutter budget tracking app project has "main.dart" as Entry Point.
+flutter Finance Management app project has "main.dart" as Entry Point.
 
 
 = = = To Generate Android release steps = = =
@@ -38,8 +38,6 @@ Now open the xcode run/build to check if project has error
 
 Select Product -> Archive
 Follow the uploading steps
-
-## 𝐒𝐭𝐢𝐥𝐥 𝐍𝐞𝐞𝐝 𝐚 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐟𝐨𝐫 𝐅𝐥𝐮𝐭𝐭𝐞𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭 ??
 
 
 
